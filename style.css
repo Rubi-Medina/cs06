@@ -1,0 +1,22 @@
+/* style esta concatenada con index.html Css type Selector */
+body{ /* body es body en documento index */
+    background-color: #B39CD0; /* fondo */
+    color: #845EC2;/* color de letra */
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif /* tipo de fuente */;
+
+}
+button{ /*  button seniala el button o boton de index */
+    background-color: #FBEAFF; /* fondo del boton */
+    color: #845EC2;
+    padding: 20px; /* tamanio de boton */
+    border-radius: 5px; /* bodes */
+    cursor: pointer; /* la manita al pasar el boton */
+}
+/* css typo selector: paseudo class selector */
+button:hover{
+    background-color: black; /* cuando el cursos pasa sobre el boton cambia de color */
+
+}
+h1{
+    color:#BFA9E3 ;
+}

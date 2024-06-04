@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web 1</title>
+<!-- este es para comentarios shitf alt a para crear comentario -->
+<link rel="stylesheet" href="./style.css">
+</head>
+<body>
+
+    <h1>Saludos desde Culiacan❤️ <!-- windowds punto para poner emoji --></h1>
+    <h2>El clima es caluroso</h2>
+    <h3>los mariscos son muy buenos</h3>
+    <h4>las personas somos muy serviciales</h4>
+    <h5>tenemos bonitas playas</h5>
+    <h6>las muejeres somos bellas    </h6>
+    <button onclick="greeting()" >Vámos al infinito</button> <!-- cada vez que de click al boton -->
+    <a target="_blank"  href="https://www.linkedin.com/in/rubi-medina-105017144/">mi linkdIn</a>
+<script src="./script.js"></script><!-- relacionar archivo java  con ./-->
+</body>
+</html>
